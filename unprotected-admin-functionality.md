@@ -47,3 +47,4 @@ Bu vazifada men `robots.txt` orqali yashirin admin sahifani topishni va noto‘g
 Admin panel kabi muhim sahifalar faqat URL’ni yashirish bilan emas, server tomonda foydalanuvchining huquqini tekshirish orqali himoyalanishi kerak.
 
 > Ushbu amaliyot faqat PortSwigger Web Security Academy o‘quv laboratoriyasida bajarildi.
+![Laboratoriya natijasi](Result.png)
